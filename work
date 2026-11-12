@@ -1,0 +1,4 @@
+- bmcweb：`tmp/work/cortexa35-openbmc-linux/bmcweb/1.0+git/sources/bmcweb-1.0+git/`
+- phosphor-ipmi-host：`tmp/work/cortexa35-openbmc-linux/phosphor-ipmi-host/1.0+git/sources/phosphor-ipmi-host-1.0+git/`
+- phosphor-user-manager：`workspace/sources/phosphor-user-manager/`
+- webui-vue：`tmp/work/all-openbmc-linux/webui-vue/1.0+git/sources/webui-vue-1.0+git/`
